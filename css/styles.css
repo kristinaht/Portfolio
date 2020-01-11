@@ -1,3 +1,6 @@
+.panel {
+	background-color: #ECF0EE; 
+}
 p {
 	font-family: optima;
 	color: #0B091E;
@@ -21,7 +24,6 @@ p strong span {
 	float: right;
 }
 
-
 .desc {
   height: 300px;
 }
@@ -29,4 +31,8 @@ p strong span {
 h4 {
 	color: purple;
 	font-weight: bold;
+}
+
+.img {
+	background-color: #6D6F6E;
 }
