@@ -14,9 +14,9 @@
 	box-shadow: 0 5px 15px rgba(0,0,0,0.3);
 }
 
-p {
+p, ol {
 	font-family: optima;
-	color: #0B091E;
+	color: rgb(20, 88, 97);
 	text-align: justify;
 }
 
