@@ -1,5 +1,6 @@
 .h1 {
 	text-shadow: 0 5px 5px rgb(11, 101, 117);
+	color: rgba(17, 4, 49, 0.897);
 }
 
 .panel {
@@ -35,7 +36,8 @@ p strong span {
 
 #bel-image {
 	float: right;
-	padding: 20px 20px 120px 50px;
+	padding: 20px 20px 20px 15px;
+	
 }
 
 .desc {
@@ -43,13 +45,14 @@ p strong span {
 }
 
 h4 {
-	color: purple;
+	color: rgba(17, 4, 49, 0.897);
+	text-shadow: 0 2px 2px rgb(11, 101, 117);
 	font-weight: bold;
 	font-size: 20px;
 }
 
 h5 {
-	color: maroon;
+	color: rgba(48, 8, 151, 0.897);
 	font-size: 19px;
 }
 .img {
