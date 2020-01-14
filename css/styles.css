@@ -1,5 +1,6 @@
 .panel {
 	background-color: #ECF0EE; 
+	padding: 7px;
 }
 
 p {
@@ -22,12 +23,12 @@ p strong span {
 }
 
 #bel-image {
-	margin: 210px 10px;
 	float: right;
+	padding: 20px 20px 120px 50px;
 }
 
 .desc {
-  height: 300px;
+  height: 330px;
 }
 
 h4 {
