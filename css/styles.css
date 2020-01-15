@@ -41,7 +41,7 @@ p strong span {
 }
 
 .desc {
-  height: 330px;
+  height: 390px;
 }
 
 h4 {
@@ -57,4 +57,10 @@ h5 {
 }
 .img {
 	background-color: #6D6F6E;
+}
+
+@media screen and (max-width: 700px) {
+	.desc {
+		height: 500px;
+	}
 }
