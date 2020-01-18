@@ -14,17 +14,18 @@ _This online portfolio showcases Kristina's projects._
 _To view this webpage you can follow this link to GitHub GH-Pages: https://github.com/kristinaht/independent-project/tree/gh-pages. Additional options for viewing and further editing are listed below:_
 
 _Download directly from GitHub:_
-* _From GitHub, click Clone or Download button._
+* _From GitHub GH-Pages, click Clone or Download button._
 * _Next, click the download zip button._
 * _Save folder on your desktop._
-* _Double-click the cloned folder to open it._
+* _Double-click the cloned suggester folder to open it._
 
 
 
 _If using Terminal to clone:_
 * _Open Terminal._
-* _From your Home Directory, enter command cd desktop_
-* _Once you are in desktop, enter the following command: git clone https://github.com/kristinaht/Independent-project-2.git_
+* _In Terminal, type cd ~ to go to your Home Directory. 
+* _Enter command cd desktop_
+* _Once you are in desktop, enter the following command in Terminal: git clone https://github.com/kristinaht/Independent-project-2.git_
 * _Clone project will be created on your desktop_
 * _Double click the cloned suggester folder to view and edit webpage files._
 
