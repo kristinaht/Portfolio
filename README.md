@@ -11,7 +11,7 @@ _This online portfolio showcases Kristina's projects._
 
 ## Setup/Installation Requirements
 
-_To view this webpage you can follow this link to GitHub GH-Pages: https://kristinaht.github.io/independent-project/. Additional options for viewing and further editing are listed below:_
+_To view this webpage you can follow this link to GitHub GH-Pages: https://kristinaht.github.io/Portfolio/. Additional options for viewing and further editing are listed below:_
 
 _Download directly from GitHub:_
 * _From GitHub GH-Pages, click Clone or Download button._
